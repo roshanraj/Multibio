@@ -47,4 +47,4 @@ savefile=sprintf('%s%iF.mat',DROOT,i);
             clear
             clock
 end
-
+print 'hello';
