@@ -1,7 +1,6 @@
 %% Database
 % Place this file in 
-% E:\RESEARCH WORK\BIOMETRIC SYSTEM\Multimodal Biometrics\Database
-% directory
+% E:\RESEARCH WORK\BIOMETRIC SYSTEM\Multimodal Biometrics\Database directory
 try
     % construct image string and load image
 for j=1:21
